@@ -13,6 +13,6 @@
 | ![Kiku](2.png) | Blaze B03      | USB 3.2 Gen 1 | ![Kiku](11-58-27.gif) | ![Kiku](12-03-47.gif) |
 | ![Kiku](1.png) | Blaze B06      | USB 3.1 Gen1 / USB 3.0, USB 2.0 compatible | ![Kiku](12-15-22.gif) | ![Kiku](12-17-04.gif) |
 
-Naudojant 2013m. Toshiba L855 Nešiojamą kompiuterį rezultatai tokie pat.
+Naudojant 2013 m. Toshiba L855 Nešiojamą kompiuterį rezultatai tokie pat.
 * Nešiojamas kompiuteris taip pat turi SSD.
 * Nešiojamas nėra toks senas, taip pat turi USB 3.0 jungtis
