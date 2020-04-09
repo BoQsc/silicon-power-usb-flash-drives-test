@@ -14,4 +14,4 @@
 | ![Kiku](1.png) | Blaze B06      | USB 3.1 Gen1 / USB 3.0, USB 2.0 compatible | ![Kiku](12-15-22.gif) | ![Kiku](12-17-04.gif) |
 
 Naudojant 2013 Toshiba L855 Nešiojamą kompiuterį rezultatai tokie pat.
-Nešiojamas kompiuteris taip pat turi SSD.
+* Nešiojamas kompiuteris taip pat turi SSD.
