@@ -15,3 +15,4 @@
 
 Naudojant 2013m. Toshiba L855 Nešiojamą kompiuterį rezultatai tokie pat.
 * Nešiojamas kompiuteris taip pat turi SSD.
+* Nešiojamas nėra toks senas, taip pat turi USB 3.0 jungtis
